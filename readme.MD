@@ -12,3 +12,7 @@
 - class is tamplate of object.
 - class er nam er 1st letter uppercase dite hoy.
 - class word k js e syntactical sugar bole
+- class diye je kaj gula hobe jegula k method bole
+- method declare korar system onekta function er moto
+- class - er moddhe property & method set krte pari
+- method - holo class er vitor e function likhtecho
